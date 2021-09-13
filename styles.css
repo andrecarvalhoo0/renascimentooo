@@ -136,7 +136,7 @@ main ul li a{
     flex-direction: column;
 }
     main ul li a, nav a{
-    font-size: 40px;
+    font-size: 20px;
 }
 }
 
